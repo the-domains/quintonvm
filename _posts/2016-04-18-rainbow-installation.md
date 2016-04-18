@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: RAINBOW
-datePublished: '2016-04-18T23:07:37.098Z'
-dateModified: '2016-04-18T23:07:36.863Z'
+datePublished: '2016-04-18T23:10:20.817Z'
+dateModified: '2016-04-18T23:08:09.548Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-rainbow-installation.md
